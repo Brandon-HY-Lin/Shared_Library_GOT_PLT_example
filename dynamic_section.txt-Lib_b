@@ -1,0 +1,28 @@
+
+Dynamic section at offset 0x5a0 contains 25 entries:
+  Tag        Type                         Name/Value
+ 0x00000001 (NEEDED)                     Shared library: [libc.so.6]
+ 0x0000000c (INIT)                       0x3f4
+ 0x0000000d (FINI)                       0x564
+ 0x00000019 (INIT_ARRAY)                 0x8594
+ 0x0000001b (INIT_ARRAYSZ)               4 (bytes)
+ 0x0000001a (FINI_ARRAY)                 0x8598
+ 0x0000001c (FINI_ARRAYSZ)               4 (bytes)
+ 0x00000004 (HASH)                       0xf8
+ 0x6ffffef5 (GNU_HASH)                   0x154
+ 0x00000005 (STRTAB)                     0x2c4
+ 0x00000006 (SYMTAB)                     0x1a4
+ 0x0000000a (STRSZ)                      154 (bytes)
+ 0x0000000b (SYMENT)                     16 (bytes)
+ 0x00000003 (PLTGOT)                     0x8688
+ 0x00000002 (PLTRELSZ)                   24 (bytes)
+ 0x00000014 (PLTREL)                     REL
+ 0x00000017 (JMPREL)                     0x3dc
+ 0x00000011 (REL)                        0x3a4
+ 0x00000012 (RELSZ)                      56 (bytes)
+ 0x00000013 (RELENT)                     8 (bytes)
+ 0x6ffffffe (VERNEED)                    0x384
+ 0x6fffffff (VERNEEDNUM)                 1
+ 0x6ffffff0 (VERSYM)                     0x35e
+ 0x6ffffffa (RELCOUNT)                   3
+ 0x00000000 (NULL)                       0x0
